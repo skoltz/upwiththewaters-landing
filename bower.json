@@ -1,0 +1,29 @@
+{
+  "name": "upwiththewaters-landing",
+  "homepage": "https://github.com/skoltz/upwiththewaters-landing",
+  "authors": [
+    "Stephen Koltz <steve.koltz@gmail.com>"
+  ],
+  "description": "landing page for map of hazardous waste sites and flood risk in st. louis",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "flood",
+    "st",
+    "louis",
+    "hazardous",
+    "waste"
+  ],
+  "license": "MIT",
+  "private": true,
+  // "ignore": [
+  //   "**/.*",
+  //   "node_modules",
+  //   "bower_components",
+  //   "test",
+  //   "tests"
+  // ],
+  "dependencies": {
+    "Materialize": "materialize#^0.97.5"
+  }
+}

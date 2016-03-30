@@ -112,6 +112,7 @@ html, body {
     padding-top: 1%;
     margin-left: 13%;
     margin-right: 7%;
+    font-size: 1.45rem;
 }
 .map-page-title {
 	color: black;
@@ -150,9 +151,10 @@ html, body {
 }
 .main-page-title {
 	text-align: center;
+	font-weight: 500;
 }
 #main-page-title-sub {
 	/*background-color: #E6C28C;*/
 	color: white;
-	font-size: 2.0rem;
+	/*font-size: 2.0rem;*/
 }
